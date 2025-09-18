@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="list_item_element_bg">#E0EFFF</color>
+    <color name="list_item_compound_bg">#E0FFE0</color>
+    <color name="list_item_compound_selected_bg">#C8E6C9</color>
+    <color name="textview_display_bg">#EFEFEF</color>
+    <color name="card_background_color">#FFFFFF</color>
+</resources>

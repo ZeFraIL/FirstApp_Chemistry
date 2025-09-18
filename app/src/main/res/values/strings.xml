@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FirstApp_Chemistry</string>
+
+    <string name="main_activity_title">Chemical Elements and Compounds</string>
+    <string name="elements_section_title">Elements:</string>
+    <string name="compounds_section_title">Compounds:</string>
+
+    <string name="button_ready_text">Ready</string>
+    <string name="selected_compound_placeholder">Selected compound:</string>
+    <string name="user_elements_placeholder">Selected elements:</string>
+    <string name="toast_correct_selection">Correct!</string>
+    <string name="toast_incorrect_try_again">Incorrect, please try again.</string>
+    <string name="toast_select_compound_first">Please select a compound first.</string>
+    <string name="toast_select_elements_first">Please select elements first.</string>
+
+    <!-- Elements -->
+    <string-array name="elements_array">
+        <item>H – Hydrogen</item>
+        <item>O – Oxygen</item>
+        <item>C – Carbon</item>
+        <item>N – Nitrogen</item>
+        <item>Na – Sodium</item>
+        <item>Cl – Chlorine</item>
+        <item>K – Potassium</item>
+        <item>Ca – Calcium</item>
+        <item>Fe – Iron</item>
+        <item>S – Sulfur</item>
+    </string-array>
+
+    <!-- Compounds -->
+    <string-array name="compounds_array">
+        <item>H₂O – Water</item>
+        <item>CO₂ – Carbon Dioxide</item>
+        <item>CH₄ – Methane</item>
+        <item>NH₃ – Ammonia</item>
+        <item>NaCl – Table Salt</item>
+        <item>KCl – Potassium Chloride</item>
+        <item>CaCO₃ – Limestone (Chalk)</item>
+        <item>Fe₂O₃ – Rust</item>
+        <item>H₂SO₄ – Sulfuric Acid</item>
+        <item>CaSO₄ – Gypsum</item>
+    </string-array>
+</resources>
